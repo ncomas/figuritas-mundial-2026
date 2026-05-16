@@ -302,6 +302,10 @@ body{
             Exportar
         </button>
 
+        <button class="toggle-all-btn" onclick="shareRepeated()">
+            Compartir Repe
+        </button>
+
         <button class="toggle-all-btn" onclick="document.getElementById('importFile').click()">
             Importar
         </button>
@@ -1077,6 +1081,43 @@ function exportAlbum(){
     a.download = "album-mundial-2026.json";
     a.click();
     URL.revokeObjectURL(url);
+}
+
+/* COMPARTIR REPETIDAS */
+function shareRepeated(){
+    let repeatedList = [];
+    groups.forEach(group=>{
+        group.teams.forEach(team=>{
+            team.stickers.forEach(sticker=>{
+                if(sticker.amount >= 2){
+                    repeatedList.push(
+                        `${sticker.id} x${sticker.amount - 1}`
+                    );
+                }
+            });
+        });
+    });
+    if(repeatedList.length === 0){
+        alert("No tenés repetidas");
+        return;
+    }
+    const text =
+`⚽ Mis figuritas repetidas:
+${repeatedList.join("\n")}`;
+
+    /* SHARE NATIVO */
+    if(navigator.share){
+        navigator.share({
+            title:"Figuritas Repetidas",
+            text:text
+        });
+    }
+
+    /* FALLBACK */
+    else{
+        navigator.clipboard.writeText(text);
+        alert("Lista copiada");
+    }
 }
 
 /* IMPORTAR */
