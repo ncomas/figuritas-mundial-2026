@@ -1,0 +1,4538 @@
+[
+  {
+    "name": "GRUPO COVERS",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "WE ARE PANINI",
+        "name": "Somos Panini",
+        "flag": "flags/wap.png",
+        "total": 1,
+        "opened": false,
+        "stickers": [
+          {
+            "id": "00",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "COVER",
+        "name": "Copa 2026",
+        "flag": "flags/cov.png",
+        "total": 4,
+        "prefix": "FWC",
+        "start": 1,
+        "opened": false,
+        "stickers": [
+          {
+            "id": "FWC1",
+            "amount": 0
+          },
+          {
+            "id": "FWC2",
+            "amount": 0
+          },
+          {
+            "id": "FWC3",
+            "amount": 0
+          },
+          {
+            "id": "FWC4",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "HOST COUNTRIES AND CITIES",
+        "name": "Balón y Países",
+        "flag": "flags/hcac.png",
+        "total": 4,
+        "prefix": "FWC",
+        "start": 5,
+        "opened": false,
+        "stickers": [
+          {
+            "id": "FWC5",
+            "amount": 1
+          },
+          {
+            "id": "FWC6",
+            "amount": 1
+          },
+          {
+            "id": "FWC7",
+            "amount": 0
+          },
+          {
+            "id": "FWC8",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO A",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "MEX",
+        "name": "Mexico",
+        "flag": "flags/mex.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "MEX1",
+            "amount": 0
+          },
+          {
+            "id": "MEX2",
+            "amount": 0
+          },
+          {
+            "id": "MEX3",
+            "amount": 1
+          },
+          {
+            "id": "MEX4",
+            "amount": 0
+          },
+          {
+            "id": "MEX5",
+            "amount": 0
+          },
+          {
+            "id": "MEX6",
+            "amount": 0
+          },
+          {
+            "id": "MEX7",
+            "amount": 1
+          },
+          {
+            "id": "MEX8",
+            "amount": 0
+          },
+          {
+            "id": "MEX9",
+            "amount": 0
+          },
+          {
+            "id": "MEX10",
+            "amount": 0
+          },
+          {
+            "id": "MEX11",
+            "amount": 0
+          },
+          {
+            "id": "MEX12",
+            "amount": 0
+          },
+          {
+            "id": "MEX13",
+            "amount": 0
+          },
+          {
+            "id": "MEX14",
+            "amount": 0
+          },
+          {
+            "id": "MEX15",
+            "amount": 0
+          },
+          {
+            "id": "MEX16",
+            "amount": 0
+          },
+          {
+            "id": "MEX17",
+            "amount": 1
+          },
+          {
+            "id": "MEX18",
+            "amount": 1
+          },
+          {
+            "id": "MEX19",
+            "amount": 0
+          },
+          {
+            "id": "MEX20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "RSA",
+        "name": "South Africa",
+        "flag": "flags/rsa.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "RSA1",
+            "amount": 0
+          },
+          {
+            "id": "RSA2",
+            "amount": 0
+          },
+          {
+            "id": "RSA3",
+            "amount": 1
+          },
+          {
+            "id": "RSA4",
+            "amount": 1
+          },
+          {
+            "id": "RSA5",
+            "amount": 0
+          },
+          {
+            "id": "RSA6",
+            "amount": 0
+          },
+          {
+            "id": "RSA7",
+            "amount": 0
+          },
+          {
+            "id": "RSA8",
+            "amount": 1
+          },
+          {
+            "id": "RSA9",
+            "amount": 1
+          },
+          {
+            "id": "RSA10",
+            "amount": 1
+          },
+          {
+            "id": "RSA11",
+            "amount": 0
+          },
+          {
+            "id": "RSA12",
+            "amount": 0
+          },
+          {
+            "id": "RSA13",
+            "amount": 0
+          },
+          {
+            "id": "RSA14",
+            "amount": 0
+          },
+          {
+            "id": "RSA15",
+            "amount": 1
+          },
+          {
+            "id": "RSA16",
+            "amount": 0
+          },
+          {
+            "id": "RSA17",
+            "amount": 0
+          },
+          {
+            "id": "RSA18",
+            "amount": 0
+          },
+          {
+            "id": "RSA19",
+            "amount": 1
+          },
+          {
+            "id": "RSA20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "KOR",
+        "name": "Korea Republic",
+        "flag": "flags/kor.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "KOR1",
+            "amount": 0
+          },
+          {
+            "id": "KOR2",
+            "amount": 0
+          },
+          {
+            "id": "KOR3",
+            "amount": 0
+          },
+          {
+            "id": "KOR4",
+            "amount": 0
+          },
+          {
+            "id": "KOR5",
+            "amount": 0
+          },
+          {
+            "id": "KOR6",
+            "amount": 0
+          },
+          {
+            "id": "KOR7",
+            "amount": 0
+          },
+          {
+            "id": "KOR8",
+            "amount": 1
+          },
+          {
+            "id": "KOR9",
+            "amount": 0
+          },
+          {
+            "id": "KOR10",
+            "amount": 0
+          },
+          {
+            "id": "KOR11",
+            "amount": 1
+          },
+          {
+            "id": "KOR12",
+            "amount": 1
+          },
+          {
+            "id": "KOR13",
+            "amount": 0
+          },
+          {
+            "id": "KOR14",
+            "amount": 0
+          },
+          {
+            "id": "KOR15",
+            "amount": 1
+          },
+          {
+            "id": "KOR16",
+            "amount": 1
+          },
+          {
+            "id": "KOR17",
+            "amount": 1
+          },
+          {
+            "id": "KOR18",
+            "amount": 0
+          },
+          {
+            "id": "KOR19",
+            "amount": 1
+          },
+          {
+            "id": "KOR20",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "code": "CZE",
+        "name": "Czechia",
+        "flag": "flags/cze.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "CZE1",
+            "amount": 0
+          },
+          {
+            "id": "CZE2",
+            "amount": 0
+          },
+          {
+            "id": "CZE3",
+            "amount": 0
+          },
+          {
+            "id": "CZE4",
+            "amount": 0
+          },
+          {
+            "id": "CZE5",
+            "amount": 0
+          },
+          {
+            "id": "CZE6",
+            "amount": 0
+          },
+          {
+            "id": "CZE7",
+            "amount": 0
+          },
+          {
+            "id": "CZE8",
+            "amount": 0
+          },
+          {
+            "id": "CZE9",
+            "amount": 0
+          },
+          {
+            "id": "CZE10",
+            "amount": 0
+          },
+          {
+            "id": "CZE11",
+            "amount": 0
+          },
+          {
+            "id": "CZE12",
+            "amount": 0
+          },
+          {
+            "id": "CZE13",
+            "amount": 0
+          },
+          {
+            "id": "CZE14",
+            "amount": 0
+          },
+          {
+            "id": "CZE15",
+            "amount": 0
+          },
+          {
+            "id": "CZE16",
+            "amount": 0
+          },
+          {
+            "id": "CZE17",
+            "amount": 0
+          },
+          {
+            "id": "CZE18",
+            "amount": 0
+          },
+          {
+            "id": "CZE19",
+            "amount": 0
+          },
+          {
+            "id": "CZE20",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO B",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "CAN",
+        "name": "Canada",
+        "flag": "flags/can.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "CAN1",
+            "amount": 0
+          },
+          {
+            "id": "CAN2",
+            "amount": 1
+          },
+          {
+            "id": "CAN3",
+            "amount": 1
+          },
+          {
+            "id": "CAN4",
+            "amount": 0
+          },
+          {
+            "id": "CAN5",
+            "amount": 1
+          },
+          {
+            "id": "CAN6",
+            "amount": 1
+          },
+          {
+            "id": "CAN7",
+            "amount": 1
+          },
+          {
+            "id": "CAN8",
+            "amount": 0
+          },
+          {
+            "id": "CAN9",
+            "amount": 1
+          },
+          {
+            "id": "CAN10",
+            "amount": 1
+          },
+          {
+            "id": "CAN11",
+            "amount": 1
+          },
+          {
+            "id": "CAN12",
+            "amount": 0
+          },
+          {
+            "id": "CAN13",
+            "amount": 0
+          },
+          {
+            "id": "CAN14",
+            "amount": 1
+          },
+          {
+            "id": "CAN15",
+            "amount": 1
+          },
+          {
+            "id": "CAN16",
+            "amount": 0
+          },
+          {
+            "id": "CAN17",
+            "amount": 0
+          },
+          {
+            "id": "CAN18",
+            "amount": 0
+          },
+          {
+            "id": "CAN19",
+            "amount": 1
+          },
+          {
+            "id": "CAN20",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "code": "BIH",
+        "name": "Bosnia-Herzegovina",
+        "flag": "flags/bih.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "BIH1",
+            "amount": 0
+          },
+          {
+            "id": "BIH2",
+            "amount": 0
+          },
+          {
+            "id": "BIH3",
+            "amount": 0
+          },
+          {
+            "id": "BIH4",
+            "amount": 0
+          },
+          {
+            "id": "BIH5",
+            "amount": 0
+          },
+          {
+            "id": "BIH6",
+            "amount": 0
+          },
+          {
+            "id": "BIH7",
+            "amount": 0
+          },
+          {
+            "id": "BIH8",
+            "amount": 0
+          },
+          {
+            "id": "BIH9",
+            "amount": 0
+          },
+          {
+            "id": "BIH10",
+            "amount": 0
+          },
+          {
+            "id": "BIH11",
+            "amount": 0
+          },
+          {
+            "id": "BIH12",
+            "amount": 0
+          },
+          {
+            "id": "BIH13",
+            "amount": 0
+          },
+          {
+            "id": "BIH14",
+            "amount": 0
+          },
+          {
+            "id": "BIH15",
+            "amount": 0
+          },
+          {
+            "id": "BIH16",
+            "amount": 0
+          },
+          {
+            "id": "BIH17",
+            "amount": 0
+          },
+          {
+            "id": "BIH18",
+            "amount": 0
+          },
+          {
+            "id": "BIH19",
+            "amount": 0
+          },
+          {
+            "id": "BIH20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "QAT",
+        "name": "Qatar",
+        "flag": "flags/qat.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "QAT1",
+            "amount": 1
+          },
+          {
+            "id": "QAT2",
+            "amount": 0
+          },
+          {
+            "id": "QAT3",
+            "amount": 1
+          },
+          {
+            "id": "QAT4",
+            "amount": 0
+          },
+          {
+            "id": "QAT5",
+            "amount": 0
+          },
+          {
+            "id": "QAT6",
+            "amount": 1
+          },
+          {
+            "id": "QAT7",
+            "amount": 1
+          },
+          {
+            "id": "QAT8",
+            "amount": 0
+          },
+          {
+            "id": "QAT9",
+            "amount": 0
+          },
+          {
+            "id": "QAT10",
+            "amount": 0
+          },
+          {
+            "id": "QAT11",
+            "amount": 0
+          },
+          {
+            "id": "QAT12",
+            "amount": 0
+          },
+          {
+            "id": "QAT13",
+            "amount": 0
+          },
+          {
+            "id": "QAT14",
+            "amount": 1
+          },
+          {
+            "id": "QAT15",
+            "amount": 1
+          },
+          {
+            "id": "QAT16",
+            "amount": 0
+          },
+          {
+            "id": "QAT17",
+            "amount": 0
+          },
+          {
+            "id": "QAT18",
+            "amount": 1
+          },
+          {
+            "id": "QAT19",
+            "amount": 1
+          },
+          {
+            "id": "QAT20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "SUI",
+        "name": "Switzerland",
+        "flag": "flags/sui.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "SUI1",
+            "amount": 1
+          },
+          {
+            "id": "SUI2",
+            "amount": 1
+          },
+          {
+            "id": "SUI3",
+            "amount": 0
+          },
+          {
+            "id": "SUI4",
+            "amount": 1
+          },
+          {
+            "id": "SUI5",
+            "amount": 1
+          },
+          {
+            "id": "SUI6",
+            "amount": 0
+          },
+          {
+            "id": "SUI7",
+            "amount": 0
+          },
+          {
+            "id": "SUI8",
+            "amount": 1
+          },
+          {
+            "id": "SUI9",
+            "amount": 0
+          },
+          {
+            "id": "SUI10",
+            "amount": 0
+          },
+          {
+            "id": "SUI11",
+            "amount": 1
+          },
+          {
+            "id": "SUI12",
+            "amount": 1
+          },
+          {
+            "id": "SUI13",
+            "amount": 0
+          },
+          {
+            "id": "SUI14",
+            "amount": 1
+          },
+          {
+            "id": "SUI15",
+            "amount": 0
+          },
+          {
+            "id": "SUI16",
+            "amount": 0
+          },
+          {
+            "id": "SUI17",
+            "amount": 0
+          },
+          {
+            "id": "SUI18",
+            "amount": 0
+          },
+          {
+            "id": "SUI19",
+            "amount": 1
+          },
+          {
+            "id": "SUI20",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO C",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "BRA",
+        "name": "Brasil",
+        "flag": "flags/bra.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "BRA1",
+            "amount": 0
+          },
+          {
+            "id": "BRA2",
+            "amount": 1
+          },
+          {
+            "id": "BRA3",
+            "amount": 1
+          },
+          {
+            "id": "BRA4",
+            "amount": 0
+          },
+          {
+            "id": "BRA5",
+            "amount": 0
+          },
+          {
+            "id": "BRA6",
+            "amount": 1
+          },
+          {
+            "id": "BRA7",
+            "amount": 1
+          },
+          {
+            "id": "BRA8",
+            "amount": 0
+          },
+          {
+            "id": "BRA9",
+            "amount": 1
+          },
+          {
+            "id": "BRA10",
+            "amount": 1
+          },
+          {
+            "id": "BRA11",
+            "amount": 1
+          },
+          {
+            "id": "BRA12",
+            "amount": 1
+          },
+          {
+            "id": "BRA13",
+            "amount": 0
+          },
+          {
+            "id": "BRA14",
+            "amount": 1
+          },
+          {
+            "id": "BRA15",
+            "amount": 1
+          },
+          {
+            "id": "BRA16",
+            "amount": 0
+          },
+          {
+            "id": "BRA17",
+            "amount": 1
+          },
+          {
+            "id": "BRA18",
+            "amount": 2
+          },
+          {
+            "id": "BRA19",
+            "amount": 0
+          },
+          {
+            "id": "BRA20",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "code": "MAR",
+        "name": "Morocco",
+        "flag": "flags/mar.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "MAR1",
+            "amount": 1
+          },
+          {
+            "id": "MAR2",
+            "amount": 0
+          },
+          {
+            "id": "MAR3",
+            "amount": 0
+          },
+          {
+            "id": "MAR4",
+            "amount": 1
+          },
+          {
+            "id": "MAR5",
+            "amount": 1
+          },
+          {
+            "id": "MAR6",
+            "amount": 0
+          },
+          {
+            "id": "MAR7",
+            "amount": 0
+          },
+          {
+            "id": "MAR8",
+            "amount": 1
+          },
+          {
+            "id": "MAR9",
+            "amount": 1
+          },
+          {
+            "id": "MAR10",
+            "amount": 0
+          },
+          {
+            "id": "MAR11",
+            "amount": 0
+          },
+          {
+            "id": "MAR12",
+            "amount": 0
+          },
+          {
+            "id": "MAR13",
+            "amount": 0
+          },
+          {
+            "id": "MAR14",
+            "amount": 1
+          },
+          {
+            "id": "MAR15",
+            "amount": 0
+          },
+          {
+            "id": "MAR16",
+            "amount": 0
+          },
+          {
+            "id": "MAR17",
+            "amount": 0
+          },
+          {
+            "id": "MAR18",
+            "amount": 1
+          },
+          {
+            "id": "MAR19",
+            "amount": 0
+          },
+          {
+            "id": "MAR20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "HAI",
+        "name": "Haiti",
+        "flag": "flags/hai.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "HAI1",
+            "amount": 0
+          },
+          {
+            "id": "HAI2",
+            "amount": 1
+          },
+          {
+            "id": "HAI3",
+            "amount": 0
+          },
+          {
+            "id": "HAI4",
+            "amount": 0
+          },
+          {
+            "id": "HAI5",
+            "amount": 1
+          },
+          {
+            "id": "HAI6",
+            "amount": 1
+          },
+          {
+            "id": "HAI7",
+            "amount": 0
+          },
+          {
+            "id": "HAI8",
+            "amount": 1
+          },
+          {
+            "id": "HAI9",
+            "amount": 1
+          },
+          {
+            "id": "HAI10",
+            "amount": 1
+          },
+          {
+            "id": "HAI11",
+            "amount": 1
+          },
+          {
+            "id": "HAI12",
+            "amount": 1
+          },
+          {
+            "id": "HAI13",
+            "amount": 0
+          },
+          {
+            "id": "HAI14",
+            "amount": 0
+          },
+          {
+            "id": "HAI15",
+            "amount": 1
+          },
+          {
+            "id": "HAI16",
+            "amount": 1
+          },
+          {
+            "id": "HAI17",
+            "amount": 1
+          },
+          {
+            "id": "HAI18",
+            "amount": 0
+          },
+          {
+            "id": "HAI19",
+            "amount": 0
+          },
+          {
+            "id": "HAI20",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "code": "SCO",
+        "name": "Scotland",
+        "flag": "flags/sco.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "SCO1",
+            "amount": 1
+          },
+          {
+            "id": "SCO2",
+            "amount": 0
+          },
+          {
+            "id": "SCO3",
+            "amount": 0
+          },
+          {
+            "id": "SCO4",
+            "amount": 0
+          },
+          {
+            "id": "SCO5",
+            "amount": 0
+          },
+          {
+            "id": "SCO6",
+            "amount": 0
+          },
+          {
+            "id": "SCO7",
+            "amount": 0
+          },
+          {
+            "id": "SCO8",
+            "amount": 0
+          },
+          {
+            "id": "SCO9",
+            "amount": 1
+          },
+          {
+            "id": "SCO10",
+            "amount": 0
+          },
+          {
+            "id": "SCO11",
+            "amount": 0
+          },
+          {
+            "id": "SCO12",
+            "amount": 0
+          },
+          {
+            "id": "SCO13",
+            "amount": 0
+          },
+          {
+            "id": "SCO14",
+            "amount": 1
+          },
+          {
+            "id": "SCO15",
+            "amount": 0
+          },
+          {
+            "id": "SCO16",
+            "amount": 0
+          },
+          {
+            "id": "SCO17",
+            "amount": 0
+          },
+          {
+            "id": "SCO18",
+            "amount": 1
+          },
+          {
+            "id": "SCO19",
+            "amount": 0
+          },
+          {
+            "id": "SCO20",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO D",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "USA",
+        "name": "USA",
+        "flag": "flags/usa.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "USA1",
+            "amount": 1
+          },
+          {
+            "id": "USA2",
+            "amount": 0
+          },
+          {
+            "id": "USA3",
+            "amount": 0
+          },
+          {
+            "id": "USA4",
+            "amount": 0
+          },
+          {
+            "id": "USA5",
+            "amount": 0
+          },
+          {
+            "id": "USA6",
+            "amount": 0
+          },
+          {
+            "id": "USA7",
+            "amount": 0
+          },
+          {
+            "id": "USA8",
+            "amount": 0
+          },
+          {
+            "id": "USA9",
+            "amount": 0
+          },
+          {
+            "id": "USA10",
+            "amount": 0
+          },
+          {
+            "id": "USA11",
+            "amount": 0
+          },
+          {
+            "id": "USA12",
+            "amount": 0
+          },
+          {
+            "id": "USA13",
+            "amount": 0
+          },
+          {
+            "id": "USA14",
+            "amount": 0
+          },
+          {
+            "id": "USA15",
+            "amount": 0
+          },
+          {
+            "id": "USA16",
+            "amount": 0
+          },
+          {
+            "id": "USA17",
+            "amount": 0
+          },
+          {
+            "id": "USA18",
+            "amount": 0
+          },
+          {
+            "id": "USA19",
+            "amount": 0
+          },
+          {
+            "id": "USA20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "PAR",
+        "name": "Paraguay",
+        "flag": "flags/par.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "PAR1",
+            "amount": 0
+          },
+          {
+            "id": "PAR2",
+            "amount": 0
+          },
+          {
+            "id": "PAR3",
+            "amount": 0
+          },
+          {
+            "id": "PAR4",
+            "amount": 0
+          },
+          {
+            "id": "PAR5",
+            "amount": 1
+          },
+          {
+            "id": "PAR6",
+            "amount": 0
+          },
+          {
+            "id": "PAR7",
+            "amount": 0
+          },
+          {
+            "id": "PAR8",
+            "amount": 0
+          },
+          {
+            "id": "PAR9",
+            "amount": 1
+          },
+          {
+            "id": "PAR10",
+            "amount": 0
+          },
+          {
+            "id": "PAR11",
+            "amount": 0
+          },
+          {
+            "id": "PAR12",
+            "amount": 0
+          },
+          {
+            "id": "PAR13",
+            "amount": 0
+          },
+          {
+            "id": "PAR14",
+            "amount": 1
+          },
+          {
+            "id": "PAR15",
+            "amount": 0
+          },
+          {
+            "id": "PAR16",
+            "amount": 0
+          },
+          {
+            "id": "PAR17",
+            "amount": 0
+          },
+          {
+            "id": "PAR18",
+            "amount": 1
+          },
+          {
+            "id": "PAR19",
+            "amount": 0
+          },
+          {
+            "id": "PAR20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "AUS",
+        "name": "Australia",
+        "flag": "flags/aus.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "AUS1",
+            "amount": 1
+          },
+          {
+            "id": "AUS2",
+            "amount": 0
+          },
+          {
+            "id": "AUS3",
+            "amount": 1
+          },
+          {
+            "id": "AUS4",
+            "amount": 1
+          },
+          {
+            "id": "AUS5",
+            "amount": 1
+          },
+          {
+            "id": "AUS6",
+            "amount": 0
+          },
+          {
+            "id": "AUS7",
+            "amount": 2
+          },
+          {
+            "id": "AUS8",
+            "amount": 0
+          },
+          {
+            "id": "AUS9",
+            "amount": 0
+          },
+          {
+            "id": "AUS10",
+            "amount": 1
+          },
+          {
+            "id": "AUS11",
+            "amount": 0
+          },
+          {
+            "id": "AUS12",
+            "amount": 0
+          },
+          {
+            "id": "AUS13",
+            "amount": 0
+          },
+          {
+            "id": "AUS14",
+            "amount": 1
+          },
+          {
+            "id": "AUS15",
+            "amount": 1
+          },
+          {
+            "id": "AUS16",
+            "amount": 0
+          },
+          {
+            "id": "AUS17",
+            "amount": 0
+          },
+          {
+            "id": "AUS18",
+            "amount": 1
+          },
+          {
+            "id": "AUS19",
+            "amount": 1
+          },
+          {
+            "id": "AUS20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "TUR",
+        "name": "Türkiye",
+        "flag": "flags/tur.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "TUR1",
+            "amount": 0
+          },
+          {
+            "id": "TUR2",
+            "amount": 0
+          },
+          {
+            "id": "TUR3",
+            "amount": 0
+          },
+          {
+            "id": "TUR4",
+            "amount": 0
+          },
+          {
+            "id": "TUR5",
+            "amount": 0
+          },
+          {
+            "id": "TUR6",
+            "amount": 0
+          },
+          {
+            "id": "TUR7",
+            "amount": 0
+          },
+          {
+            "id": "TUR8",
+            "amount": 0
+          },
+          {
+            "id": "TUR9",
+            "amount": 0
+          },
+          {
+            "id": "TUR10",
+            "amount": 0
+          },
+          {
+            "id": "TUR11",
+            "amount": 0
+          },
+          {
+            "id": "TUR12",
+            "amount": 0
+          },
+          {
+            "id": "TUR13",
+            "amount": 0
+          },
+          {
+            "id": "TUR14",
+            "amount": 0
+          },
+          {
+            "id": "TUR15",
+            "amount": 0
+          },
+          {
+            "id": "TUR16",
+            "amount": 0
+          },
+          {
+            "id": "TUR17",
+            "amount": 0
+          },
+          {
+            "id": "TUR18",
+            "amount": 0
+          },
+          {
+            "id": "TUR19",
+            "amount": 0
+          },
+          {
+            "id": "TUR20",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO E",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "GER",
+        "name": "Alemania",
+        "flag": "flags/ger.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "GER1",
+            "amount": 0
+          },
+          {
+            "id": "GER2",
+            "amount": 1
+          },
+          {
+            "id": "GER3",
+            "amount": 0
+          },
+          {
+            "id": "GER4",
+            "amount": 0
+          },
+          {
+            "id": "GER5",
+            "amount": 0
+          },
+          {
+            "id": "GER6",
+            "amount": 0
+          },
+          {
+            "id": "GER7",
+            "amount": 1
+          },
+          {
+            "id": "GER8",
+            "amount": 0
+          },
+          {
+            "id": "GER9",
+            "amount": 0
+          },
+          {
+            "id": "GER10",
+            "amount": 0
+          },
+          {
+            "id": "GER11",
+            "amount": 1
+          },
+          {
+            "id": "GER12",
+            "amount": 1
+          },
+          {
+            "id": "GER13",
+            "amount": 0
+          },
+          {
+            "id": "GER14",
+            "amount": 0
+          },
+          {
+            "id": "GER15",
+            "amount": 0
+          },
+          {
+            "id": "GER16",
+            "amount": 1
+          },
+          {
+            "id": "GER17",
+            "amount": 0
+          },
+          {
+            "id": "GER18",
+            "amount": 0
+          },
+          {
+            "id": "GER19",
+            "amount": 1
+          },
+          {
+            "id": "GER20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "CUW",
+        "name": "Curacao",
+        "flag": "flags/cuw.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "CUW1",
+            "amount": 0
+          },
+          {
+            "id": "CUW2",
+            "amount": 1
+          },
+          {
+            "id": "CUW3",
+            "amount": 1
+          },
+          {
+            "id": "CUW4",
+            "amount": 0
+          },
+          {
+            "id": "CUW5",
+            "amount": 0
+          },
+          {
+            "id": "CUW6",
+            "amount": 1
+          },
+          {
+            "id": "CUW7",
+            "amount": 0
+          },
+          {
+            "id": "CUW8",
+            "amount": 0
+          },
+          {
+            "id": "CUW9",
+            "amount": 0
+          },
+          {
+            "id": "CUW10",
+            "amount": 1
+          },
+          {
+            "id": "CUW11",
+            "amount": 0
+          },
+          {
+            "id": "CUW12",
+            "amount": 0
+          },
+          {
+            "id": "CUW13",
+            "amount": 0
+          },
+          {
+            "id": "CUW14",
+            "amount": 0
+          },
+          {
+            "id": "CUW15",
+            "amount": 1
+          },
+          {
+            "id": "CUW16",
+            "amount": 0
+          },
+          {
+            "id": "CUW17",
+            "amount": 0
+          },
+          {
+            "id": "CUW18",
+            "amount": 0
+          },
+          {
+            "id": "CUW19",
+            "amount": 1
+          },
+          {
+            "id": "CUW20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "CIV",
+        "name": "Cote d'Ivoire",
+        "flag": "flags/civ.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "CIV1",
+            "amount": 1
+          },
+          {
+            "id": "CIV2",
+            "amount": 0
+          },
+          {
+            "id": "CIV3",
+            "amount": 1
+          },
+          {
+            "id": "CIV4",
+            "amount": 1
+          },
+          {
+            "id": "CIV5",
+            "amount": 2
+          },
+          {
+            "id": "CIV6",
+            "amount": 0
+          },
+          {
+            "id": "CIV7",
+            "amount": 1
+          },
+          {
+            "id": "CIV8",
+            "amount": 0
+          },
+          {
+            "id": "CIV9",
+            "amount": 1
+          },
+          {
+            "id": "CIV10",
+            "amount": 0
+          },
+          {
+            "id": "CIV11",
+            "amount": 1
+          },
+          {
+            "id": "CIV12",
+            "amount": 0
+          },
+          {
+            "id": "CIV13",
+            "amount": 0
+          },
+          {
+            "id": "CIV14",
+            "amount": 1
+          },
+          {
+            "id": "CIV15",
+            "amount": 1
+          },
+          {
+            "id": "CIV16",
+            "amount": 1
+          },
+          {
+            "id": "CIV17",
+            "amount": 0
+          },
+          {
+            "id": "CIV18",
+            "amount": 1
+          },
+          {
+            "id": "CIV19",
+            "amount": 0
+          },
+          {
+            "id": "CIV20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "ECU",
+        "name": "Ecuador",
+        "flag": "flags/ecu.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "ECU1",
+            "amount": 0
+          },
+          {
+            "id": "ECU2",
+            "amount": 1
+          },
+          {
+            "id": "ECU3",
+            "amount": 0
+          },
+          {
+            "id": "ECU4",
+            "amount": 0
+          },
+          {
+            "id": "ECU5",
+            "amount": 1
+          },
+          {
+            "id": "ECU6",
+            "amount": 0
+          },
+          {
+            "id": "ECU7",
+            "amount": 0
+          },
+          {
+            "id": "ECU8",
+            "amount": 1
+          },
+          {
+            "id": "ECU9",
+            "amount": 0
+          },
+          {
+            "id": "ECU10",
+            "amount": 0
+          },
+          {
+            "id": "ECU11",
+            "amount": 0
+          },
+          {
+            "id": "ECU12",
+            "amount": 1
+          },
+          {
+            "id": "ECU13",
+            "amount": 0
+          },
+          {
+            "id": "ECU14",
+            "amount": 0
+          },
+          {
+            "id": "ECU15",
+            "amount": 0
+          },
+          {
+            "id": "ECU16",
+            "amount": 1
+          },
+          {
+            "id": "ECU17",
+            "amount": 1
+          },
+          {
+            "id": "ECU18",
+            "amount": 0
+          },
+          {
+            "id": "ECU19",
+            "amount": 1
+          },
+          {
+            "id": "ECU20",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO F",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "NED",
+        "name": "Netherlands",
+        "flag": "flags/ned.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "NED1",
+            "amount": 0
+          },
+          {
+            "id": "NED2",
+            "amount": 1
+          },
+          {
+            "id": "NED3",
+            "amount": 1
+          },
+          {
+            "id": "NED4",
+            "amount": 0
+          },
+          {
+            "id": "NED5",
+            "amount": 0
+          },
+          {
+            "id": "NED6",
+            "amount": 1
+          },
+          {
+            "id": "NED7",
+            "amount": 0
+          },
+          {
+            "id": "NED8",
+            "amount": 0
+          },
+          {
+            "id": "NED9",
+            "amount": 1
+          },
+          {
+            "id": "NED10",
+            "amount": 1
+          },
+          {
+            "id": "NED11",
+            "amount": 1
+          },
+          {
+            "id": "NED12",
+            "amount": 0
+          },
+          {
+            "id": "NED13",
+            "amount": 0
+          },
+          {
+            "id": "NED14",
+            "amount": 0
+          },
+          {
+            "id": "NED15",
+            "amount": 1
+          },
+          {
+            "id": "NED16",
+            "amount": 1
+          },
+          {
+            "id": "NED17",
+            "amount": 0
+          },
+          {
+            "id": "NED18",
+            "amount": 0
+          },
+          {
+            "id": "NED19",
+            "amount": 0
+          },
+          {
+            "id": "NED20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "JPN",
+        "name": "Japan",
+        "flag": "flags/jpn.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "JPN1",
+            "amount": 0
+          },
+          {
+            "id": "JPN2",
+            "amount": 0
+          },
+          {
+            "id": "JPN3",
+            "amount": 0
+          },
+          {
+            "id": "JPN4",
+            "amount": 1
+          },
+          {
+            "id": "JPN5",
+            "amount": 1
+          },
+          {
+            "id": "JPN6",
+            "amount": 0
+          },
+          {
+            "id": "JPN7",
+            "amount": 0
+          },
+          {
+            "id": "JPN8",
+            "amount": 0
+          },
+          {
+            "id": "JPN9",
+            "amount": 0
+          },
+          {
+            "id": "JPN10",
+            "amount": 0
+          },
+          {
+            "id": "JPN11",
+            "amount": 0
+          },
+          {
+            "id": "JPN12",
+            "amount": 0
+          },
+          {
+            "id": "JPN13",
+            "amount": 0
+          },
+          {
+            "id": "JPN14",
+            "amount": 0
+          },
+          {
+            "id": "JPN15",
+            "amount": 0
+          },
+          {
+            "id": "JPN16",
+            "amount": 0
+          },
+          {
+            "id": "JPN17",
+            "amount": 0
+          },
+          {
+            "id": "JPN18",
+            "amount": 0
+          },
+          {
+            "id": "JPN19",
+            "amount": 0
+          },
+          {
+            "id": "JPN20",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "code": "SWE",
+        "name": "Sweden",
+        "flag": "flags/swe.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "SWE1",
+            "amount": 0
+          },
+          {
+            "id": "SWE2",
+            "amount": 0
+          },
+          {
+            "id": "SWE3",
+            "amount": 0
+          },
+          {
+            "id": "SWE4",
+            "amount": 0
+          },
+          {
+            "id": "SWE5",
+            "amount": 0
+          },
+          {
+            "id": "SWE6",
+            "amount": 0
+          },
+          {
+            "id": "SWE7",
+            "amount": 0
+          },
+          {
+            "id": "SWE8",
+            "amount": 0
+          },
+          {
+            "id": "SWE9",
+            "amount": 0
+          },
+          {
+            "id": "SWE10",
+            "amount": 0
+          },
+          {
+            "id": "SWE11",
+            "amount": 0
+          },
+          {
+            "id": "SWE12",
+            "amount": 0
+          },
+          {
+            "id": "SWE13",
+            "amount": 0
+          },
+          {
+            "id": "SWE14",
+            "amount": 0
+          },
+          {
+            "id": "SWE15",
+            "amount": 0
+          },
+          {
+            "id": "SWE16",
+            "amount": 0
+          },
+          {
+            "id": "SWE17",
+            "amount": 0
+          },
+          {
+            "id": "SWE18",
+            "amount": 0
+          },
+          {
+            "id": "SWE19",
+            "amount": 0
+          },
+          {
+            "id": "SWE20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "TUN",
+        "name": "Tunisia",
+        "flag": "flags/tun.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "TUN1",
+            "amount": 0
+          },
+          {
+            "id": "TUN2",
+            "amount": 1
+          },
+          {
+            "id": "TUN3",
+            "amount": 0
+          },
+          {
+            "id": "TUN4",
+            "amount": 0
+          },
+          {
+            "id": "TUN5",
+            "amount": 1
+          },
+          {
+            "id": "TUN6",
+            "amount": 0
+          },
+          {
+            "id": "TUN7",
+            "amount": 1
+          },
+          {
+            "id": "TUN8",
+            "amount": 1
+          },
+          {
+            "id": "TUN9",
+            "amount": 0
+          },
+          {
+            "id": "TUN10",
+            "amount": 1
+          },
+          {
+            "id": "TUN11",
+            "amount": 0
+          },
+          {
+            "id": "TUN12",
+            "amount": 0
+          },
+          {
+            "id": "TUN13",
+            "amount": 0
+          },
+          {
+            "id": "TUN14",
+            "amount": 2
+          },
+          {
+            "id": "TUN15",
+            "amount": 1
+          },
+          {
+            "id": "TUN16",
+            "amount": 1
+          },
+          {
+            "id": "TUN17",
+            "amount": 0
+          },
+          {
+            "id": "TUN18",
+            "amount": 0
+          },
+          {
+            "id": "TUN19",
+            "amount": 0
+          },
+          {
+            "id": "TUN20",
+            "amount": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO G",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "BEL",
+        "name": "Belgium",
+        "flag": "flags/bel.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "BEL1",
+            "amount": 0
+          },
+          {
+            "id": "BEL2",
+            "amount": 0
+          },
+          {
+            "id": "BEL3",
+            "amount": 1
+          },
+          {
+            "id": "BEL4",
+            "amount": 1
+          },
+          {
+            "id": "BEL5",
+            "amount": 0
+          },
+          {
+            "id": "BEL6",
+            "amount": 0
+          },
+          {
+            "id": "BEL7",
+            "amount": 1
+          },
+          {
+            "id": "BEL8",
+            "amount": 1
+          },
+          {
+            "id": "BEL9",
+            "amount": 0
+          },
+          {
+            "id": "BEL10",
+            "amount": 0
+          },
+          {
+            "id": "BEL11",
+            "amount": 1
+          },
+          {
+            "id": "BEL12",
+            "amount": 1
+          },
+          {
+            "id": "BEL13",
+            "amount": 0
+          },
+          {
+            "id": "BEL14",
+            "amount": 1
+          },
+          {
+            "id": "BEL15",
+            "amount": 0
+          },
+          {
+            "id": "BEL16",
+            "amount": 1
+          },
+          {
+            "id": "BEL17",
+            "amount": 1
+          },
+          {
+            "id": "BEL18",
+            "amount": 1
+          },
+          {
+            "id": "BEL19",
+            "amount": 0
+          },
+          {
+            "id": "BEL20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "EGY",
+        "name": "Egypt",
+        "flag": "flags/egy.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "EGY1",
+            "amount": 0
+          },
+          {
+            "id": "EGY2",
+            "amount": 1
+          },
+          {
+            "id": "EGY3",
+            "amount": 0
+          },
+          {
+            "id": "EGY4",
+            "amount": 0
+          },
+          {
+            "id": "EGY5",
+            "amount": 1
+          },
+          {
+            "id": "EGY6",
+            "amount": 1
+          },
+          {
+            "id": "EGY7",
+            "amount": 1
+          },
+          {
+            "id": "EGY8",
+            "amount": 0
+          },
+          {
+            "id": "EGY9",
+            "amount": 1
+          },
+          {
+            "id": "EGY10",
+            "amount": 0
+          },
+          {
+            "id": "EGY11",
+            "amount": 0
+          },
+          {
+            "id": "EGY12",
+            "amount": 0
+          },
+          {
+            "id": "EGY13",
+            "amount": 0
+          },
+          {
+            "id": "EGY14",
+            "amount": 2
+          },
+          {
+            "id": "EGY15",
+            "amount": 1
+          },
+          {
+            "id": "EGY16",
+            "amount": 0
+          },
+          {
+            "id": "EGY17",
+            "amount": 0
+          },
+          {
+            "id": "EGY18",
+            "amount": 0
+          },
+          {
+            "id": "EGY19",
+            "amount": 1
+          },
+          {
+            "id": "EGY20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "IRN",
+        "name": "IR Iran",
+        "flag": "flags/irn.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "IRN1",
+            "amount": 0
+          },
+          {
+            "id": "IRN2",
+            "amount": 1
+          },
+          {
+            "id": "IRN3",
+            "amount": 1
+          },
+          {
+            "id": "IRN4",
+            "amount": 0
+          },
+          {
+            "id": "IRN5",
+            "amount": 1
+          },
+          {
+            "id": "IRN6",
+            "amount": 1
+          },
+          {
+            "id": "IRN7",
+            "amount": 0
+          },
+          {
+            "id": "IRN8",
+            "amount": 1
+          },
+          {
+            "id": "IRN9",
+            "amount": 1
+          },
+          {
+            "id": "IRN10",
+            "amount": 1
+          },
+          {
+            "id": "IRN11",
+            "amount": 1
+          },
+          {
+            "id": "IRN12",
+            "amount": 1
+          },
+          {
+            "id": "IRN13",
+            "amount": 0
+          },
+          {
+            "id": "IRN14",
+            "amount": 1
+          },
+          {
+            "id": "IRN15",
+            "amount": 1
+          },
+          {
+            "id": "IRN16",
+            "amount": 1
+          },
+          {
+            "id": "IRN17",
+            "amount": 1
+          },
+          {
+            "id": "IRN18",
+            "amount": 1
+          },
+          {
+            "id": "IRN19",
+            "amount": 0
+          },
+          {
+            "id": "IRN20",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "code": "NZL",
+        "name": "New Zealand",
+        "flag": "flags/nzl.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "NZL1",
+            "amount": 1
+          },
+          {
+            "id": "NZL2",
+            "amount": 1
+          },
+          {
+            "id": "NZL3",
+            "amount": 1
+          },
+          {
+            "id": "NZL4",
+            "amount": 1
+          },
+          {
+            "id": "NZL5",
+            "amount": 0
+          },
+          {
+            "id": "NZL6",
+            "amount": 1
+          },
+          {
+            "id": "NZL7",
+            "amount": 1
+          },
+          {
+            "id": "NZL8",
+            "amount": 1
+          },
+          {
+            "id": "NZL9",
+            "amount": 0
+          },
+          {
+            "id": "NZL10",
+            "amount": 1
+          },
+          {
+            "id": "NZL11",
+            "amount": 1
+          },
+          {
+            "id": "NZL12",
+            "amount": 1
+          },
+          {
+            "id": "NZL13",
+            "amount": 0
+          },
+          {
+            "id": "NZL14",
+            "amount": 0
+          },
+          {
+            "id": "NZL15",
+            "amount": 1
+          },
+          {
+            "id": "NZL16",
+            "amount": 1
+          },
+          {
+            "id": "NZL17",
+            "amount": 1
+          },
+          {
+            "id": "NZL18",
+            "amount": 0
+          },
+          {
+            "id": "NZL19",
+            "amount": 1
+          },
+          {
+            "id": "NZL20",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO H",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "ESP",
+        "name": "España",
+        "flag": "flags/esp.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "ESP1",
+            "amount": 1
+          },
+          {
+            "id": "ESP2",
+            "amount": 1
+          },
+          {
+            "id": "ESP3",
+            "amount": 1
+          },
+          {
+            "id": "ESP4",
+            "amount": 1
+          },
+          {
+            "id": "ESP5",
+            "amount": 0
+          },
+          {
+            "id": "ESP6",
+            "amount": 0
+          },
+          {
+            "id": "ESP7",
+            "amount": 1
+          },
+          {
+            "id": "ESP8",
+            "amount": 1
+          },
+          {
+            "id": "ESP9",
+            "amount": 1
+          },
+          {
+            "id": "ESP10",
+            "amount": 1
+          },
+          {
+            "id": "ESP11",
+            "amount": 0
+          },
+          {
+            "id": "ESP12",
+            "amount": 1
+          },
+          {
+            "id": "ESP13",
+            "amount": 0
+          },
+          {
+            "id": "ESP14",
+            "amount": 1
+          },
+          {
+            "id": "ESP15",
+            "amount": 0
+          },
+          {
+            "id": "ESP16",
+            "amount": 0
+          },
+          {
+            "id": "ESP17",
+            "amount": 1
+          },
+          {
+            "id": "ESP18",
+            "amount": 0
+          },
+          {
+            "id": "ESP19",
+            "amount": 0
+          },
+          {
+            "id": "ESP20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "CPV",
+        "name": "Cabo Verde",
+        "flag": "flags/cpv.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "CPV1",
+            "amount": 1
+          },
+          {
+            "id": "CPV2",
+            "amount": 0
+          },
+          {
+            "id": "CPV3",
+            "amount": 0
+          },
+          {
+            "id": "CPV4",
+            "amount": 0
+          },
+          {
+            "id": "CPV5",
+            "amount": 1
+          },
+          {
+            "id": "CPV6",
+            "amount": 0
+          },
+          {
+            "id": "CPV7",
+            "amount": 0
+          },
+          {
+            "id": "CPV8",
+            "amount": 0
+          },
+          {
+            "id": "CPV9",
+            "amount": 1
+          },
+          {
+            "id": "CPV10",
+            "amount": 0
+          },
+          {
+            "id": "CPV11",
+            "amount": 0
+          },
+          {
+            "id": "CPV12",
+            "amount": 0
+          },
+          {
+            "id": "CPV13",
+            "amount": 0
+          },
+          {
+            "id": "CPV14",
+            "amount": 1
+          },
+          {
+            "id": "CPV15",
+            "amount": 1
+          },
+          {
+            "id": "CPV16",
+            "amount": 0
+          },
+          {
+            "id": "CPV17",
+            "amount": 0
+          },
+          {
+            "id": "CPV18",
+            "amount": 1
+          },
+          {
+            "id": "CPV19",
+            "amount": 1
+          },
+          {
+            "id": "CPV20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "KSA",
+        "name": "Saudi Arabia",
+        "flag": "flags/ksa.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "KSA1",
+            "amount": 2
+          },
+          {
+            "id": "KSA2",
+            "amount": 1
+          },
+          {
+            "id": "KSA3",
+            "amount": 0
+          },
+          {
+            "id": "KSA4",
+            "amount": 1
+          },
+          {
+            "id": "KSA5",
+            "amount": 1
+          },
+          {
+            "id": "KSA6",
+            "amount": 1
+          },
+          {
+            "id": "KSA7",
+            "amount": 0
+          },
+          {
+            "id": "KSA8",
+            "amount": 1
+          },
+          {
+            "id": "KSA9",
+            "amount": 0
+          },
+          {
+            "id": "KSA10",
+            "amount": 1
+          },
+          {
+            "id": "KSA11",
+            "amount": 1
+          },
+          {
+            "id": "KSA12",
+            "amount": 0
+          },
+          {
+            "id": "KSA13",
+            "amount": 0
+          },
+          {
+            "id": "KSA14",
+            "amount": 0
+          },
+          {
+            "id": "KSA15",
+            "amount": 1
+          },
+          {
+            "id": "KSA16",
+            "amount": 1
+          },
+          {
+            "id": "KSA17",
+            "amount": 0
+          },
+          {
+            "id": "KSA18",
+            "amount": 0
+          },
+          {
+            "id": "KSA19",
+            "amount": 1
+          },
+          {
+            "id": "KSA20",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "code": "URU",
+        "name": "Uruguay",
+        "flag": "flags/uru.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "URU1",
+            "amount": 1
+          },
+          {
+            "id": "URU2",
+            "amount": 0
+          },
+          {
+            "id": "URU3",
+            "amount": 0
+          },
+          {
+            "id": "URU4",
+            "amount": 0
+          },
+          {
+            "id": "URU5",
+            "amount": 0
+          },
+          {
+            "id": "URU6",
+            "amount": 0
+          },
+          {
+            "id": "URU7",
+            "amount": 0
+          },
+          {
+            "id": "URU8",
+            "amount": 0
+          },
+          {
+            "id": "URU9",
+            "amount": 1
+          },
+          {
+            "id": "URU10",
+            "amount": 1
+          },
+          {
+            "id": "URU11",
+            "amount": 0
+          },
+          {
+            "id": "URU12",
+            "amount": 0
+          },
+          {
+            "id": "URU13",
+            "amount": 0
+          },
+          {
+            "id": "URU14",
+            "amount": 0
+          },
+          {
+            "id": "URU15",
+            "amount": 0
+          },
+          {
+            "id": "URU16",
+            "amount": 0
+          },
+          {
+            "id": "URU17",
+            "amount": 0
+          },
+          {
+            "id": "URU18",
+            "amount": 0
+          },
+          {
+            "id": "URU19",
+            "amount": 0
+          },
+          {
+            "id": "URU20",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO I",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "FRA",
+        "name": "France",
+        "flag": "flags/fra.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "FRA1",
+            "amount": 1
+          },
+          {
+            "id": "FRA2",
+            "amount": 1
+          },
+          {
+            "id": "FRA3",
+            "amount": 0
+          },
+          {
+            "id": "FRA4",
+            "amount": 0
+          },
+          {
+            "id": "FRA5",
+            "amount": 0
+          },
+          {
+            "id": "FRA6",
+            "amount": 1
+          },
+          {
+            "id": "FRA7",
+            "amount": 1
+          },
+          {
+            "id": "FRA8",
+            "amount": 0
+          },
+          {
+            "id": "FRA9",
+            "amount": 0
+          },
+          {
+            "id": "FRA10",
+            "amount": 0
+          },
+          {
+            "id": "FRA11",
+            "amount": 0
+          },
+          {
+            "id": "FRA12",
+            "amount": 0
+          },
+          {
+            "id": "FRA13",
+            "amount": 0
+          },
+          {
+            "id": "FRA14",
+            "amount": 1
+          },
+          {
+            "id": "FRA15",
+            "amount": 0
+          },
+          {
+            "id": "FRA16",
+            "amount": 1
+          },
+          {
+            "id": "FRA17",
+            "amount": 1
+          },
+          {
+            "id": "FRA18",
+            "amount": 0
+          },
+          {
+            "id": "FRA19",
+            "amount": 0
+          },
+          {
+            "id": "FRA20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "SEN",
+        "name": "Senegal",
+        "flag": "flags/sen.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "SEN1",
+            "amount": 1
+          },
+          {
+            "id": "SEN2",
+            "amount": 0
+          },
+          {
+            "id": "SEN3",
+            "amount": 1
+          },
+          {
+            "id": "SEN4",
+            "amount": 0
+          },
+          {
+            "id": "SEN5",
+            "amount": 0
+          },
+          {
+            "id": "SEN6",
+            "amount": 0
+          },
+          {
+            "id": "SEN7",
+            "amount": 0
+          },
+          {
+            "id": "SEN8",
+            "amount": 0
+          },
+          {
+            "id": "SEN9",
+            "amount": 0
+          },
+          {
+            "id": "SEN10",
+            "amount": 0
+          },
+          {
+            "id": "SEN11",
+            "amount": 0
+          },
+          {
+            "id": "SEN12",
+            "amount": 0
+          },
+          {
+            "id": "SEN13",
+            "amount": 0
+          },
+          {
+            "id": "SEN14",
+            "amount": 1
+          },
+          {
+            "id": "SEN15",
+            "amount": 0
+          },
+          {
+            "id": "SEN16",
+            "amount": 0
+          },
+          {
+            "id": "SEN17",
+            "amount": 1
+          },
+          {
+            "id": "SEN18",
+            "amount": 1
+          },
+          {
+            "id": "SEN19",
+            "amount": 0
+          },
+          {
+            "id": "SEN20",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "code": "IRQ",
+        "name": "Iraq",
+        "flag": "flags/irq.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "IRQ1",
+            "amount": 0
+          },
+          {
+            "id": "IRQ2",
+            "amount": 0
+          },
+          {
+            "id": "IRQ3",
+            "amount": 0
+          },
+          {
+            "id": "IRQ4",
+            "amount": 0
+          },
+          {
+            "id": "IRQ5",
+            "amount": 0
+          },
+          {
+            "id": "IRQ6",
+            "amount": 0
+          },
+          {
+            "id": "IRQ7",
+            "amount": 0
+          },
+          {
+            "id": "IRQ8",
+            "amount": 0
+          },
+          {
+            "id": "IRQ9",
+            "amount": 0
+          },
+          {
+            "id": "IRQ10",
+            "amount": 0
+          },
+          {
+            "id": "IRQ11",
+            "amount": 0
+          },
+          {
+            "id": "IRQ12",
+            "amount": 0
+          },
+          {
+            "id": "IRQ13",
+            "amount": 0
+          },
+          {
+            "id": "IRQ14",
+            "amount": 0
+          },
+          {
+            "id": "IRQ15",
+            "amount": 0
+          },
+          {
+            "id": "IRQ16",
+            "amount": 0
+          },
+          {
+            "id": "IRQ17",
+            "amount": 0
+          },
+          {
+            "id": "IRQ18",
+            "amount": 0
+          },
+          {
+            "id": "IRQ19",
+            "amount": 0
+          },
+          {
+            "id": "IRQ20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "NOR",
+        "name": "Norway",
+        "flag": "flags/nor.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "NOR1",
+            "amount": 0
+          },
+          {
+            "id": "NOR2",
+            "amount": 0
+          },
+          {
+            "id": "NOR3",
+            "amount": 0
+          },
+          {
+            "id": "NOR4",
+            "amount": 0
+          },
+          {
+            "id": "NOR5",
+            "amount": 0
+          },
+          {
+            "id": "NOR6",
+            "amount": 0
+          },
+          {
+            "id": "NOR7",
+            "amount": 0
+          },
+          {
+            "id": "NOR8",
+            "amount": 0
+          },
+          {
+            "id": "NOR9",
+            "amount": 0
+          },
+          {
+            "id": "NOR10",
+            "amount": 0
+          },
+          {
+            "id": "NOR11",
+            "amount": 0
+          },
+          {
+            "id": "NOR12",
+            "amount": 0
+          },
+          {
+            "id": "NOR13",
+            "amount": 0
+          },
+          {
+            "id": "NOR14",
+            "amount": 0
+          },
+          {
+            "id": "NOR15",
+            "amount": 0
+          },
+          {
+            "id": "NOR16",
+            "amount": 0
+          },
+          {
+            "id": "NOR17",
+            "amount": 0
+          },
+          {
+            "id": "NOR18",
+            "amount": 0
+          },
+          {
+            "id": "NOR19",
+            "amount": 1
+          },
+          {
+            "id": "NOR20",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO J",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "ARG",
+        "name": "Argentina",
+        "flag": "flags/arg.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "ARG1",
+            "amount": 0
+          },
+          {
+            "id": "ARG2",
+            "amount": 0
+          },
+          {
+            "id": "ARG3",
+            "amount": 1
+          },
+          {
+            "id": "ARG4",
+            "amount": 1
+          },
+          {
+            "id": "ARG5",
+            "amount": 0
+          },
+          {
+            "id": "ARG6",
+            "amount": 0
+          },
+          {
+            "id": "ARG7",
+            "amount": 0
+          },
+          {
+            "id": "ARG8",
+            "amount": 1
+          },
+          {
+            "id": "ARG9",
+            "amount": 1
+          },
+          {
+            "id": "ARG10",
+            "amount": 0
+          },
+          {
+            "id": "ARG11",
+            "amount": 1
+          },
+          {
+            "id": "ARG12",
+            "amount": 1
+          },
+          {
+            "id": "ARG13",
+            "amount": 0
+          },
+          {
+            "id": "ARG14",
+            "amount": 1
+          },
+          {
+            "id": "ARG15",
+            "amount": 0
+          },
+          {
+            "id": "ARG16",
+            "amount": 1
+          },
+          {
+            "id": "ARG17",
+            "amount": 0
+          },
+          {
+            "id": "ARG18",
+            "amount": 1
+          },
+          {
+            "id": "ARG19",
+            "amount": 0
+          },
+          {
+            "id": "ARG20",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "code": "ALG",
+        "name": "Algeria",
+        "flag": "flags/alg.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "ALG1",
+            "amount": 0
+          },
+          {
+            "id": "ALG2",
+            "amount": 1
+          },
+          {
+            "id": "ALG3",
+            "amount": 1
+          },
+          {
+            "id": "ALG4",
+            "amount": 0
+          },
+          {
+            "id": "ALG5",
+            "amount": 0
+          },
+          {
+            "id": "ALG6",
+            "amount": 1
+          },
+          {
+            "id": "ALG7",
+            "amount": 1
+          },
+          {
+            "id": "ALG8",
+            "amount": 0
+          },
+          {
+            "id": "ALG9",
+            "amount": 1
+          },
+          {
+            "id": "ALG10",
+            "amount": 1
+          },
+          {
+            "id": "ALG11",
+            "amount": 1
+          },
+          {
+            "id": "ALG12",
+            "amount": 0
+          },
+          {
+            "id": "ALG13",
+            "amount": 0
+          },
+          {
+            "id": "ALG14",
+            "amount": 1
+          },
+          {
+            "id": "ALG15",
+            "amount": 1
+          },
+          {
+            "id": "ALG16",
+            "amount": 1
+          },
+          {
+            "id": "ALG17",
+            "amount": 0
+          },
+          {
+            "id": "ALG18",
+            "amount": 1
+          },
+          {
+            "id": "ALG19",
+            "amount": 1
+          },
+          {
+            "id": "ALG20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "AUT",
+        "name": "Austria",
+        "flag": "flags/aut.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "AUT1",
+            "amount": 0
+          },
+          {
+            "id": "AUT2",
+            "amount": 1
+          },
+          {
+            "id": "AUT3",
+            "amount": 1
+          },
+          {
+            "id": "AUT4",
+            "amount": 1
+          },
+          {
+            "id": "AUT5",
+            "amount": 0
+          },
+          {
+            "id": "AUT6",
+            "amount": 1
+          },
+          {
+            "id": "AUT7",
+            "amount": 1
+          },
+          {
+            "id": "AUT8",
+            "amount": 0
+          },
+          {
+            "id": "AUT9",
+            "amount": 0
+          },
+          {
+            "id": "AUT10",
+            "amount": 0
+          },
+          {
+            "id": "AUT11",
+            "amount": 0
+          },
+          {
+            "id": "AUT12",
+            "amount": 0
+          },
+          {
+            "id": "AUT13",
+            "amount": 0
+          },
+          {
+            "id": "AUT14",
+            "amount": 1
+          },
+          {
+            "id": "AUT15",
+            "amount": 0
+          },
+          {
+            "id": "AUT16",
+            "amount": 0
+          },
+          {
+            "id": "AUT17",
+            "amount": 0
+          },
+          {
+            "id": "AUT18",
+            "amount": 1
+          },
+          {
+            "id": "AUT19",
+            "amount": 1
+          },
+          {
+            "id": "AUT20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "JOR",
+        "name": "Jordan",
+        "flag": "flags/jor.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "JOR1",
+            "amount": 1
+          },
+          {
+            "id": "JOR2",
+            "amount": 1
+          },
+          {
+            "id": "JOR3",
+            "amount": 0
+          },
+          {
+            "id": "JOR4",
+            "amount": 1
+          },
+          {
+            "id": "JOR5",
+            "amount": 0
+          },
+          {
+            "id": "JOR6",
+            "amount": 0
+          },
+          {
+            "id": "JOR7",
+            "amount": 0
+          },
+          {
+            "id": "JOR8",
+            "amount": 1
+          },
+          {
+            "id": "JOR9",
+            "amount": 0
+          },
+          {
+            "id": "JOR10",
+            "amount": 0
+          },
+          {
+            "id": "JOR11",
+            "amount": 0
+          },
+          {
+            "id": "JOR12",
+            "amount": 1
+          },
+          {
+            "id": "JOR13",
+            "amount": 0
+          },
+          {
+            "id": "JOR14",
+            "amount": 0
+          },
+          {
+            "id": "JOR15",
+            "amount": 0
+          },
+          {
+            "id": "JOR16",
+            "amount": 0
+          },
+          {
+            "id": "JOR17",
+            "amount": 1
+          },
+          {
+            "id": "JOR18",
+            "amount": 0
+          },
+          {
+            "id": "JOR19",
+            "amount": 0
+          },
+          {
+            "id": "JOR20",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO K",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "POR",
+        "name": "Portugal",
+        "flag": "flags/por.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "POR1",
+            "amount": 0
+          },
+          {
+            "id": "POR2",
+            "amount": 0
+          },
+          {
+            "id": "POR3",
+            "amount": 1
+          },
+          {
+            "id": "POR4",
+            "amount": 0
+          },
+          {
+            "id": "POR5",
+            "amount": 0
+          },
+          {
+            "id": "POR6",
+            "amount": 0
+          },
+          {
+            "id": "POR7",
+            "amount": 0
+          },
+          {
+            "id": "POR8",
+            "amount": 1
+          },
+          {
+            "id": "POR9",
+            "amount": 1
+          },
+          {
+            "id": "POR10",
+            "amount": 0
+          },
+          {
+            "id": "POR11",
+            "amount": 0
+          },
+          {
+            "id": "POR12",
+            "amount": 1
+          },
+          {
+            "id": "POR13",
+            "amount": 0
+          },
+          {
+            "id": "POR14",
+            "amount": 1
+          },
+          {
+            "id": "POR15",
+            "amount": 0
+          },
+          {
+            "id": "POR16",
+            "amount": 0
+          },
+          {
+            "id": "POR17",
+            "amount": 1
+          },
+          {
+            "id": "POR18",
+            "amount": 1
+          },
+          {
+            "id": "POR19",
+            "amount": 0
+          },
+          {
+            "id": "POR20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "COD",
+        "name": "Congo DR",
+        "flag": "flags/cod.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "COD1",
+            "amount": 0
+          },
+          {
+            "id": "COD2",
+            "amount": 0
+          },
+          {
+            "id": "COD3",
+            "amount": 0
+          },
+          {
+            "id": "COD4",
+            "amount": 0
+          },
+          {
+            "id": "COD5",
+            "amount": 0
+          },
+          {
+            "id": "COD6",
+            "amount": 0
+          },
+          {
+            "id": "COD7",
+            "amount": 0
+          },
+          {
+            "id": "COD8",
+            "amount": 0
+          },
+          {
+            "id": "COD9",
+            "amount": 0
+          },
+          {
+            "id": "COD10",
+            "amount": 0
+          },
+          {
+            "id": "COD11",
+            "amount": 0
+          },
+          {
+            "id": "COD12",
+            "amount": 0
+          },
+          {
+            "id": "COD13",
+            "amount": 0
+          },
+          {
+            "id": "COD14",
+            "amount": 0
+          },
+          {
+            "id": "COD15",
+            "amount": 0
+          },
+          {
+            "id": "COD16",
+            "amount": 0
+          },
+          {
+            "id": "COD17",
+            "amount": 0
+          },
+          {
+            "id": "COD18",
+            "amount": 0
+          },
+          {
+            "id": "COD19",
+            "amount": 0
+          },
+          {
+            "id": "COD20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "UZB",
+        "name": "Uzbekistan",
+        "flag": "flags/uzb.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "UZB1",
+            "amount": 1
+          },
+          {
+            "id": "UZB2",
+            "amount": 0
+          },
+          {
+            "id": "UZB3",
+            "amount": 0
+          },
+          {
+            "id": "UZB4",
+            "amount": 0
+          },
+          {
+            "id": "UZB5",
+            "amount": 0
+          },
+          {
+            "id": "UZB6",
+            "amount": 0
+          },
+          {
+            "id": "UZB7",
+            "amount": 0
+          },
+          {
+            "id": "UZB8",
+            "amount": 0
+          },
+          {
+            "id": "UZB9",
+            "amount": 0
+          },
+          {
+            "id": "UZB10",
+            "amount": 0
+          },
+          {
+            "id": "UZB11",
+            "amount": 0
+          },
+          {
+            "id": "UZB12",
+            "amount": 0
+          },
+          {
+            "id": "UZB13",
+            "amount": 0
+          },
+          {
+            "id": "UZB14",
+            "amount": 0
+          },
+          {
+            "id": "UZB15",
+            "amount": 0
+          },
+          {
+            "id": "UZB16",
+            "amount": 0
+          },
+          {
+            "id": "UZB17",
+            "amount": 0
+          },
+          {
+            "id": "UZB18",
+            "amount": 0
+          },
+          {
+            "id": "UZB19",
+            "amount": 0
+          },
+          {
+            "id": "UZB20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "COL",
+        "name": "Colombia",
+        "flag": "flags/col.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "COL1",
+            "amount": 1
+          },
+          {
+            "id": "COL2",
+            "amount": 1
+          },
+          {
+            "id": "COL3",
+            "amount": 0
+          },
+          {
+            "id": "COL4",
+            "amount": 0
+          },
+          {
+            "id": "COL5",
+            "amount": 1
+          },
+          {
+            "id": "COL6",
+            "amount": 1
+          },
+          {
+            "id": "COL7",
+            "amount": 0
+          },
+          {
+            "id": "COL8",
+            "amount": 0
+          },
+          {
+            "id": "COL9",
+            "amount": 1
+          },
+          {
+            "id": "COL10",
+            "amount": 1
+          },
+          {
+            "id": "COL11",
+            "amount": 0
+          },
+          {
+            "id": "COL12",
+            "amount": 1
+          },
+          {
+            "id": "COL13",
+            "amount": 0
+          },
+          {
+            "id": "COL14",
+            "amount": 1
+          },
+          {
+            "id": "COL15",
+            "amount": 1
+          },
+          {
+            "id": "COL16",
+            "amount": 0
+          },
+          {
+            "id": "COL17",
+            "amount": 1
+          },
+          {
+            "id": "COL18",
+            "amount": 1
+          },
+          {
+            "id": "COL19",
+            "amount": 0
+          },
+          {
+            "id": "COL20",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO L",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "ENG",
+        "name": "England",
+        "flag": "flags/eng.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "ENG1",
+            "amount": 0
+          },
+          {
+            "id": "ENG2",
+            "amount": 0
+          },
+          {
+            "id": "ENG3",
+            "amount": 1
+          },
+          {
+            "id": "ENG4",
+            "amount": 0
+          },
+          {
+            "id": "ENG5",
+            "amount": 0
+          },
+          {
+            "id": "ENG6",
+            "amount": 1
+          },
+          {
+            "id": "ENG7",
+            "amount": 0
+          },
+          {
+            "id": "ENG8",
+            "amount": 1
+          },
+          {
+            "id": "ENG9",
+            "amount": 1
+          },
+          {
+            "id": "ENG10",
+            "amount": 1
+          },
+          {
+            "id": "ENG11",
+            "amount": 0
+          },
+          {
+            "id": "ENG12",
+            "amount": 0
+          },
+          {
+            "id": "ENG13",
+            "amount": 0
+          },
+          {
+            "id": "ENG14",
+            "amount": 1
+          },
+          {
+            "id": "ENG15",
+            "amount": 1
+          },
+          {
+            "id": "ENG16",
+            "amount": 0
+          },
+          {
+            "id": "ENG17",
+            "amount": 1
+          },
+          {
+            "id": "ENG18",
+            "amount": 1
+          },
+          {
+            "id": "ENG19",
+            "amount": 1
+          },
+          {
+            "id": "ENG20",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "code": "CRO",
+        "name": "Croatia",
+        "flag": "flags/cro.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "CRO1",
+            "amount": 0
+          },
+          {
+            "id": "CRO2",
+            "amount": 0
+          },
+          {
+            "id": "CRO3",
+            "amount": 1
+          },
+          {
+            "id": "CRO4",
+            "amount": 1
+          },
+          {
+            "id": "CRO5",
+            "amount": 1
+          },
+          {
+            "id": "CRO6",
+            "amount": 0
+          },
+          {
+            "id": "CRO7",
+            "amount": 1
+          },
+          {
+            "id": "CRO8",
+            "amount": 1
+          },
+          {
+            "id": "CRO9",
+            "amount": 1
+          },
+          {
+            "id": "CRO10",
+            "amount": 0
+          },
+          {
+            "id": "CRO11",
+            "amount": 1
+          },
+          {
+            "id": "CRO12",
+            "amount": 1
+          },
+          {
+            "id": "CRO13",
+            "amount": 0
+          },
+          {
+            "id": "CRO14",
+            "amount": 1
+          },
+          {
+            "id": "CRO15",
+            "amount": 0
+          },
+          {
+            "id": "CRO16",
+            "amount": 0
+          },
+          {
+            "id": "CRO17",
+            "amount": 1
+          },
+          {
+            "id": "CRO18",
+            "amount": 1
+          },
+          {
+            "id": "CRO19",
+            "amount": 0
+          },
+          {
+            "id": "CRO20",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "GHA",
+        "name": "Ghana",
+        "flag": "flags/gha.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "GHA1",
+            "amount": 1
+          },
+          {
+            "id": "GHA2",
+            "amount": 0
+          },
+          {
+            "id": "GHA3",
+            "amount": 0
+          },
+          {
+            "id": "GHA4",
+            "amount": 1
+          },
+          {
+            "id": "GHA5",
+            "amount": 0
+          },
+          {
+            "id": "GHA6",
+            "amount": 0
+          },
+          {
+            "id": "GHA7",
+            "amount": 1
+          },
+          {
+            "id": "GHA8",
+            "amount": 1
+          },
+          {
+            "id": "GHA9",
+            "amount": 1
+          },
+          {
+            "id": "GHA10",
+            "amount": 0
+          },
+          {
+            "id": "GHA11",
+            "amount": 1
+          },
+          {
+            "id": "GHA12",
+            "amount": 1
+          },
+          {
+            "id": "GHA13",
+            "amount": 0
+          },
+          {
+            "id": "GHA14",
+            "amount": 1
+          },
+          {
+            "id": "GHA15",
+            "amount": 0
+          },
+          {
+            "id": "GHA16",
+            "amount": 1
+          },
+          {
+            "id": "GHA17",
+            "amount": 1
+          },
+          {
+            "id": "GHA18",
+            "amount": 1
+          },
+          {
+            "id": "GHA19",
+            "amount": 0
+          },
+          {
+            "id": "GHA20",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "code": "PAN",
+        "name": "Panama",
+        "flag": "flags/pan.png",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "PAN1",
+            "amount": 0
+          },
+          {
+            "id": "PAN2",
+            "amount": 1
+          },
+          {
+            "id": "PAN3",
+            "amount": 1
+          },
+          {
+            "id": "PAN4",
+            "amount": 0
+          },
+          {
+            "id": "PAN5",
+            "amount": 0
+          },
+          {
+            "id": "PAN6",
+            "amount": 1
+          },
+          {
+            "id": "PAN7",
+            "amount": 1
+          },
+          {
+            "id": "PAN8",
+            "amount": 0
+          },
+          {
+            "id": "PAN9",
+            "amount": 0
+          },
+          {
+            "id": "PAN10",
+            "amount": 1
+          },
+          {
+            "id": "PAN11",
+            "amount": 1
+          },
+          {
+            "id": "PAN12",
+            "amount": 0
+          },
+          {
+            "id": "PAN13",
+            "amount": 0
+          },
+          {
+            "id": "PAN14",
+            "amount": 0
+          },
+          {
+            "id": "PAN15",
+            "amount": 1
+          },
+          {
+            "id": "PAN16",
+            "amount": 1
+          },
+          {
+            "id": "PAN17",
+            "amount": 0
+          },
+          {
+            "id": "PAN18",
+            "amount": 0
+          },
+          {
+            "id": "PAN19",
+            "amount": 0
+          },
+          {
+            "id": "PAN20",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GRUPO ESPECIALES",
+    "opened": false,
+    "color": "#c9c9c9",
+    "teams": [
+      {
+        "code": "FIFA WORLD CUP HISTORY",
+        "name": "Historia de la Copa",
+        "flag": "flags/fwch.png",
+        "total": 11,
+        "prefix": "FWC",
+        "start": 9,
+        "opened": false,
+        "stickers": [
+          {
+            "id": "FWC9",
+            "amount": 0
+          },
+          {
+            "id": "FWC10",
+            "amount": 0
+          },
+          {
+            "id": "FWC11",
+            "amount": 0
+          },
+          {
+            "id": "FWC12",
+            "amount": 0
+          },
+          {
+            "id": "FWC13",
+            "amount": 0
+          },
+          {
+            "id": "FWC14",
+            "amount": 0
+          },
+          {
+            "id": "FWC15",
+            "amount": 0
+          },
+          {
+            "id": "FWC16",
+            "amount": 0
+          },
+          {
+            "id": "FWC17",
+            "amount": 0
+          },
+          {
+            "id": "FWC18",
+            "amount": 0
+          },
+          {
+            "id": "FWC19",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "EXTRA STICKERS",
+        "name": "Stikers Extras",
+        "flag": "flags/extra.png",
+        "total": 4,
+        "prefix": "EX",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "EX1",
+            "amount": 1
+          },
+          {
+            "id": "EX2",
+            "amount": 0
+          },
+          {
+            "id": "EX3",
+            "amount": 0
+          },
+          {
+            "id": "EX4",
+            "amount": 0
+          }
+        ]
+      },
+      {
+        "code": "COCA-COLA",
+        "name": "Colección Coca-Cola",
+        "flag": "flags/coca.png",
+        "total": 14,
+        "prefix": "CC",
+        "opened": false,
+        "stickers": [
+          {
+            "id": "CC1",
+            "amount": 0
+          },
+          {
+            "id": "CC2",
+            "amount": 0
+          },
+          {
+            "id": "CC3",
+            "amount": 0
+          },
+          {
+            "id": "CC4",
+            "amount": 0
+          },
+          {
+            "id": "CC5",
+            "amount": 0
+          },
+          {
+            "id": "CC6",
+            "amount": 0
+          },
+          {
+            "id": "CC7",
+            "amount": 0
+          },
+          {
+            "id": "CC8",
+            "amount": 0
+          },
+          {
+            "id": "CC9",
+            "amount": 0
+          },
+          {
+            "id": "CC10",
+            "amount": 0
+          },
+          {
+            "id": "CC11",
+            "amount": 0
+          },
+          {
+            "id": "CC12",
+            "amount": 0
+          },
+          {
+            "id": "CC13",
+            "amount": 0
+          },
+          {
+            "id": "CC14",
+            "amount": 0
+          }
+        ]
+      }
+    ]
+  }
+]
