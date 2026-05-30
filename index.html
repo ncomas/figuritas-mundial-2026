@@ -306,6 +306,11 @@ body{
             Compartir Repe
         </button>
 
+        <button
+            class="toggle-all-btn" onclick="shareMissing()">
+            Compartir Falta
+        </button>
+
         <button class="toggle-all-btn" onclick="document.getElementById('importFile').click()">
             Importar
         </button>
@@ -1114,6 +1119,41 @@ ${repeatedList.join("\n")}`;
     }
 
     /* FALLBACK */
+    else{
+        navigator.clipboard.writeText(text);
+        alert("Lista copiada");
+    }
+}
+
+/* COMPARTIR FALTANTES */
+function shareMissing(){
+    let missingList = [];
+    groups.forEach(group=>{
+        group.teams.forEach(team=>{
+            team.stickers.forEach(sticker=>{
+                if(sticker.amount === 0){
+                   missingList.push(sticker.id);
+                }
+            });
+        });
+    });
+
+    if(missingList.length === 0){
+        alert("¡Álbum completo!");
+        return;
+    }
+
+    const text =
+`⚽ Figuritas que me faltan:
+${missingList.join("\n")}`;
+
+    if(navigator.share){
+        navigator.share({
+            title:"Figuritas Faltantes",
+            text:text
+        });
+    }
+
     else{
         navigator.clipboard.writeText(text);
         alert("Lista copiada");
