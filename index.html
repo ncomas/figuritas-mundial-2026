@@ -411,8 +411,7 @@ const groups = [
         {
             code:"MEX",
             name:"Mexico",
-            flag:"flags/mex.png",
-            emoji:"MX"
+            flag:"flags/mex.png"
         },
         {
             code:"RSA",
@@ -470,8 +469,7 @@ const groups = [
         {
             code:"BRA",
             name:"Brasil",
-            flag:"flags/bra.png",
-            emoji:"🇧🇷"
+            flag:"flags/bra.png"
         },
         {
             code:"MAR",
@@ -674,8 +672,7 @@ const groups = [
         {
             code:"ARG",
             name:"Argentina",
-            flag:"flags/arg.png",
-            emoji:"🇦🇷"
+            flag:"flags/arg.png"
         },
         {
             code:"ALG",
@@ -1091,6 +1088,79 @@ function exportAlbum(){
     URL.revokeObjectURL(url);
 }
 
+const flagsEmoji = {
+
+    ARG:"🇦🇷",
+    ALG:"🇩🇿",
+    AUS:"🇦🇺",
+    AUT:"🇦🇹",
+
+    BEL:"🇧🇪",
+    BIH:"🇧🇦",
+    BRA:"🇧🇷",
+
+    CAN:"🇨🇦",
+    CIV:"🇨🇮",
+    COD:"🇨🇩",
+    COL:"🇨🇴",
+    CPV:"🇨🇻",
+    CRO:"🇭🇷",
+    CUW:"🇨🇼",
+    CZE:"🇨🇿",
+
+    ECU:"🇪🇨",
+    EGY:"🇪🇬",
+    ENG:"🏴",
+    ESP:"🇪🇸",
+
+    FRA:"🇫🇷",
+
+    GER:"🇩🇪",
+    GHA:"🇬🇭",
+
+    HAI:"🇭🇹",
+
+    IRN:"🇮🇷",
+    IRQ:"🇮🇶",
+
+    JOR:"🇯🇴",
+    JPN:"🇯🇵",
+
+    KOR:"🇰🇷",
+    KSA:"🇸🇦",
+
+    MAR:"🇲🇦",
+    MEX:"🇲🇽",
+
+    NED:"🇳🇱",
+    NOR:"🇳🇴",
+    NZL:"🇳🇿",
+
+    PAN:"🇵🇦",
+    PAR:"🇵🇾",
+    POR:"🇵🇹",
+
+    QAT:"🇶🇦",
+
+    RSA:"🇿🇦",
+
+    SCO:"🏴",
+    SEN:"🇸🇳",
+    SUI:"🇨🇭",
+    SWE:"🇸🇪",
+
+    TUN:"🇹🇳",
+    TUR:"🇹🇷",
+
+    URU:"🇺🇾",
+    USA:"🇺🇸",
+    UZB:"🇺🇿",
+
+    FWC:"🏆",
+    EX:"⭐",
+    CC:"🥤"
+};
+
 /* COMPARTIR REPETIDAS */
 function shareRepeated(){
     let text =
@@ -1111,7 +1181,7 @@ Tengo repetidas
             });
             if(repeated.length > 0){
                 text +=
-`${team.code} ${team.emoji || ""} : ${repeated.join(", ")}
+`${team.code} ${flagsEmoji[team.code] || ""} : ${repeated.join(", ")}
 `;
             }
         });
@@ -1145,7 +1215,7 @@ Me faltan
             });
             if(missing.length > 0){
                 text +=
-`${team.code} ${team.emoji || ""} : ${missing.join(", ")}
+`${team.code} ${flagsEmoji[team.code] || ""} : ${missing.join(", ")}
 `;
             }
         });
