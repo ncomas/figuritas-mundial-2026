@@ -411,7 +411,8 @@ const groups = [
         {
             code:"MEX",
             name:"Mexico",
-            flag:"flags/mex.png"
+            flag:"flags/mex.png",
+            emoji:"MX"
         },
         {
             code:"RSA",
@@ -469,7 +470,8 @@ const groups = [
         {
             code:"BRA",
             name:"Brasil",
-            flag:"flags/bra.png"
+            flag:"flags/bra.png",
+            emoji:"🇧🇷"
         },
         {
             code:"MAR",
@@ -672,7 +674,8 @@ const groups = [
         {
             code:"ARG",
             name:"Argentina",
-            flag:"flags/arg.png"
+            flag:"flags/arg.png",
+            emoji:"🇦🇷"
         },
         {
             code:"ALG",
@@ -1090,36 +1093,35 @@ function exportAlbum(){
 
 /* COMPARTIR REPETIDAS */
 function shareRepeated(){
-    let repeatedList = [];
+    let text =
+`⚽ Figuritas App - Lista
+Tengo repetidas
+`;
     groups.forEach(group=>{
         group.teams.forEach(team=>{
+            let repeated = [];
             team.stickers.forEach(sticker=>{
                 if(sticker.amount >= 2){
-                    repeatedList.push(
-                        `${sticker.id} x${sticker.amount - 1}`
+                    const num =
+                        sticker.id.replace(team.code,"");
+                    repeated.push(
+                        `${num}(x${sticker.amount - 1})`
                     );
                 }
             });
+            if(repeated.length > 0){
+                text +=
+`${team.code} ${team.emoji || ""} : ${repeated.join(", ")}
+`;
+            }
         });
     });
-    if(repeatedList.length === 0){
-        alert("No tenés repetidas");
-        return;
-    }
-    const text =
-`⚽ Mis figuritas repetidas:
-${repeatedList.join("\n")}`;
-
-    /* SHARE NATIVO */
     if(navigator.share){
         navigator.share({
             title:"Figuritas Repetidas",
             text:text
         });
-    }
-
-    /* FALLBACK */
-    else{
+    }else{
         navigator.clipboard.writeText(text);
         alert("Lista copiada");
     }
@@ -1127,34 +1129,33 @@ ${repeatedList.join("\n")}`;
 
 /* COMPARTIR FALTANTES */
 function shareMissing(){
-    let missingList = [];
+    let text =
+`⚽ Figuritas App - Lista
+Me faltan
+`;
     groups.forEach(group=>{
         group.teams.forEach(team=>{
+            let missing = [];
             team.stickers.forEach(sticker=>{
                 if(sticker.amount === 0){
-                   missingList.push(sticker.id);
+                    const num =
+                        sticker.id.replace(team.code,"");
+                    missing.push(num);
                 }
             });
+            if(missing.length > 0){
+                text +=
+`${team.code} ${team.emoji || ""} : ${missing.join(", ")}
+`;
+            }
         });
     });
-
-    if(missingList.length === 0){
-        alert("¡Álbum completo!");
-        return;
-    }
-
-    const text =
-`⚽ Figuritas que me faltan:
-${missingList.join("\n")}`;
-
     if(navigator.share){
         navigator.share({
             title:"Figuritas Faltantes",
             text:text
         });
-    }
-
-    else{
+    }else{
         navigator.clipboard.writeText(text);
         alert("Lista copiada");
     }
