@@ -1,4 +1,4 @@
-const CACHE_NAME = "mundial-cache-v8";
+const CACHE_NAME = "mundial-cache-v10";
 
 const urlsToCache = [
     "./",
