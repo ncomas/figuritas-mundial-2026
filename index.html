@@ -1215,9 +1215,7 @@ Tengo repetidas
                 if(sticker.amount >= 2){
                     const num =
                         sticker.id.replace(team.code,"");
-                    repeated.push(
-                        `${num}(x${sticker.amount - 1})`
-                    );
+                    repeated.push(num);
                 }
             });
             if(repeated.length > 0){
